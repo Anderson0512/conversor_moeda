@@ -1,0 +1,27 @@
+.linha{
+  display: flex;
+  justify-content: space-around;
+  margin-top: 40px;
+}
+
+h1{
+  text-align: center;
+  padding-top: 20px;
+}
+.App{
+  max-width: 1000px;
+  margin: auto;
+}
+.linha3{
+  display: flex;
+  justify-content: space-around;
+  margin-top: 40px;
+  margin-bottom: 70px;
+}
+header{
+  background-color: rgb(127, 127, 97);
+  border-radius: 30px;
+}
+body{
+  background-color: rgb(58, 76, 69);
+}
